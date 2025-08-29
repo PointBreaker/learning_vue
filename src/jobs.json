@@ -1,20 +1,6 @@
 {
   "jobs": [
     {
-      "title": "Senior Vue Dev",
-      "type": "Full-Time",
-      "location": "Boston, MA",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
-      "salary": "$90K - $100K",
-      "company": {
-        "name": "NewTek Solutions",
-        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
-        "contactEmail": "contact@teksolutions.com",
-        "contactPhone": "555-555-5555"
-      },
-      "id": "1"
-    },
-    {
       "id": "2",
       "title": "Front-End Engineer (Vue)",
       "type": "Full-Time",
@@ -96,6 +82,48 @@
         "description": "Iusto omnis eveniet",
         "contactEmail": "laqo@mailinator.com",
         "contactPhone": "+1 (117) 683-4668"
+      }
+    },
+    {
+      "id": "0982",
+      "title": "Violet Pickett",
+      "type": "Part-Time",
+      "location": "Exercitationem provi",
+      "description": "Qui quia velit sed ",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Joyner Casey LLC",
+        "description": "Debitis occaecat aut",
+        "contactEmail": "juraly@mailinator.com",
+        "contactPhone": "+1 (132) 321-2162"
+      }
+    },
+    {
+      "id": "a8e8",
+      "title": "Front-End Engineer (Vue)",
+      "type": "Part-Time",
+      "location": "Miami, FL",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "company name",
+        "description": "company description",
+        "contactEmail": "company@org",
+        "contactPhone": "12345"
+      }
+    },
+    {
+      "id": "bc07",
+      "title": "Front-End Engineer (Vue Part)",
+      "type": "Part-Time",
+      "location": "Miami, FL",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "company name",
+        "description": "company description",
+        "contactEmail": "company@org",
+        "contactPhone": "12345"
       }
     }
   ]
