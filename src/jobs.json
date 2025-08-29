@@ -57,74 +57,18 @@
       }
     },
     {
-      "id": "6",
       "title": "Vue Native Developer",
       "type": "Full-Time",
-      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
       "location": "Portland, OR",
-      "salary": "$100K - $110K",
-      "company": {
-        "name": "Port Solutions INC",
-        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
-        "contactEmail": "contact@ipsumlorem.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
-      "id": "ab4e",
-      "title": "Chiquita Bowers",
-      "type": "Remote",
-      "location": "Alias maiores vitae ",
-      "description": "Qui et minus quis in",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
       "salary": "$100K - $125K",
       "company": {
-        "name": "Guy Chavez Co",
-        "description": "Iusto omnis eveniet",
-        "contactEmail": "laqo@mailinator.com",
-        "contactPhone": "+1 (117) 683-4668"
-      }
-    },
-    {
-      "id": "0982",
-      "title": "Violet Pickett",
-      "type": "Part-Time",
-      "location": "Exercitationem provi",
-      "description": "Qui quia velit sed ",
-      "salary": "$50K - $60K",
-      "company": {
-        "name": "Joyner Casey LLC",
-        "description": "Debitis occaecat aut",
-        "contactEmail": "juraly@mailinator.com",
-        "contactPhone": "+1 (132) 321-2162"
-      }
-    },
-    {
-      "id": "a8e8",
-      "title": "Front-End Engineer (Vue)",
-      "type": "Part-Time",
-      "location": "Miami, FL",
-      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
-      "salary": "$70K - $80K",
-      "company": {
         "name": "company name",
         "description": "company description",
         "contactEmail": "company@org",
         "contactPhone": "12345"
-      }
-    },
-    {
-      "id": "bc07",
-      "title": "Front-End Engineer (Vue Part)",
-      "type": "Part-Time",
-      "location": "Miami, FL",
-      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
-      "salary": "$70K - $80K",
-      "company": {
-        "name": "company name",
-        "description": "company description",
-        "contactEmail": "company@org",
-        "contactPhone": "12345"
-      }
+      },
+      "id": "6"
     }
   ]
 }
