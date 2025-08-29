@@ -85,34 +85,6 @@
       }
     },
     {
-      "id": "d23f",
-      "title": "Fullstack",
-      "type": "Part-Time",
-      "location": "Somewhere",
-      "description": "job description",
-      "salary": "$50K - $60K",
-      "company": {
-        "name": "company name",
-        "description": "company description",
-        "contactEmail": "company@org",
-        "contactPhone": "12345"
-      }
-    },
-    {
-      "id": "980e",
-      "title": "Fullstack",
-      "type": "Part-Time",
-      "location": "Somewhere",
-      "description": "job description",
-      "salary": "$50K - $60K",
-      "company": {
-        "name": "company name",
-        "description": "company description",
-        "contactEmail": "company@org",
-        "contactPhone": "12345"
-      }
-    },
-    {
       "id": "ab4e",
       "title": "Chiquita Bowers",
       "type": "Remote",
@@ -124,62 +96,6 @@
         "description": "Iusto omnis eveniet",
         "contactEmail": "laqo@mailinator.com",
         "contactPhone": "+1 (117) 683-4668"
-      }
-    },
-    {
-      "id": "f9e6",
-      "title": "Justin Cleveland",
-      "type": "Part-Time",
-      "location": "Ex cupidatat in qui ",
-      "description": "Occaecat quasi beata",
-      "salary": "Over $200K",
-      "company": {
-        "name": "Harmon Finley Plc",
-        "description": "Eos est labore ull",
-        "contactEmail": "vugypa@mailinator.com",
-        "contactPhone": "+1 (828) 525-7979"
-      }
-    },
-    {
-      "id": "a6ce",
-      "title": "Fullstack",
-      "type": "Part-Time",
-      "location": "Somewhere",
-      "description": "job description",
-      "salary": "$50K - $60K",
-      "company": {
-        "name": "company name",
-        "description": "company description",
-        "contactEmail": "company@org",
-        "contactPhone": "12345"
-      }
-    },
-    {
-      "id": "589b",
-      "title": "Raphael Jarvis",
-      "type": "Remote",
-      "location": "Culpa non alias atq",
-      "description": "Dolor nisi dolorem l",
-      "salary": "$80K - $90K",
-      "company": {
-        "name": "Calhoun Schwartz Traders",
-        "description": "Distinctio Atque ea",
-        "contactEmail": "tacox@mailinator.com",
-        "contactPhone": "+1 (471) 485-8478"
-      }
-    },
-    {
-      "id": "9c30",
-      "title": "Rooney Weeks",
-      "type": "Full-Time",
-      "location": "Deleniti eaque vel d",
-      "description": "Et dolores cupidatat",
-      "salary": "$60K - $70K",
-      "company": {
-        "name": "Suarez Knowles Co",
-        "description": "Non nihil eaque sint",
-        "contactEmail": "befynyj@mailinator.com",
-        "contactPhone": "+1 (498) 912-9304"
       }
     }
   ]
